@@ -10,5 +10,5 @@ button1.addEventListener("click", function() {
 
 button2.addEventListener("click", function() {
     cliks = 0;
-    text.textContent = "Ты обнулил счётчик!"
-})
+    text.textContent = "Ты обнулил(-а) счётчик!";
+});
