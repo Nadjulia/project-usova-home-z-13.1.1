@@ -1,0 +1,22 @@
+body {
+    background-color: #1240AB;
+    color: #ffffff;
+
+.content {
+    width: 500px;
+    border: 3px solid #6c8cd5;
+    border-radius: 15px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+}
+
+.btn1, .btn2 {
+    background-color: #06266f;
+    color: #ffffff;
+    width: 300px;
+    padding: 10px;
+    border: 0;
+    cursor: pointer;
+    border-radius: 15px;
+}
